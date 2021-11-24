@@ -98,8 +98,8 @@ mod common;
 #[macro_use]
 mod format;
 mod position;
-mod tokenizer;
 mod helpers;
+pub mod tokenizer;
 pub mod query;
 pub mod schema;
 
